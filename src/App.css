@@ -28,8 +28,9 @@ body {
 
 .form-group > label {
   color: #777;
-  font-size: .75rem;
+  font-size: 22px;
   margin-bottom: .25rem;
+  margin-right: .25rem;
 }
 
 .btn {
@@ -39,6 +40,7 @@ body {
   border-radius: .3em;
   border: none;
   cursor: pointer;
+  font-size: 22px;
 
 }
 .btn:hover {
